@@ -1,136 +1,333 @@
 {
   "emotionsDatabase": [
     {
-      "name": "ADORATION",
-      "definition": "A feeling of deep love and respect; worship.",
+      "name": "RADOŚĆ",
+      "definition": "Uczucie wielkiej przyjemności i szczęścia.",
       "physicalSignals": [
-        "Relaxed posture",
-        "Leaning in toward the subject",
-        "Smiling, a radiant expression",
-        "Eyes wide, shining",
-        "Direct and sustained eye contact",
-        "Touching the subject (a hand on the arm, stroking their hair)",
-        "A softened, warm tone of voice",
-        "Mimicking the subject's body language",
-        "Nodding while the other person speaks"
+        "Uśmiech (szeroki, autentyczny, unoszący kąciki ust i marszczący oczy)",
+        "Lśniące, żywe oczy",
+        "Zrelaksowana postawa, otwarte ramiona",
+        "Lekki, sprężysty krok",
+        "Śmiech, chichot",
+        "Ożywiona gestykulacja",
+        "Wyższy, bardziej melodyjny ton głosu",
+        "Zwiększona energia, lekkie podskakiwanie"
       ],
       "internalSensations": [
-        "A feeling of warmth in the chest",
-        "A fluttering in the stomach",
-        "A quickened heartbeat",
-        "Feeling breathless"
+        "Uczucie lekkości i ciepła w klatce piersiowej",
+        "Przyspieszone, ale miarowe bicie serca",
+        "Motyle w brzuchu",
+        "Poczucie przypływu energii"
       ],
       "mentalResponses": [
-        "Idealizing the subject, seeing no flaws",
-        "A desire to please and protect the subject",
-        "Losing track of time when with the subject",
-        "Feeling complete and happy in their presence",
-        "Constant thoughts about the subject"
+        "Optymistyczne myślenie, skupienie na pozytywach",
+        "Poczucie wdzięczności",
+        "Chęć dzielenia się swoim szczęściem z innymi",
+        "Zwiększona kreatywność i otwartość na nowe pomysły",
+        "Postrzeganie świata jako przyjaznego i pełnego możliwości"
       ],
       "cuesAcute": [
-        "Tears of overwhelming emotion",
-        "Inability to speak",
-        "A radiant, almost glowing expression"
+        "Wybuchy głośnego, niekontrolowanego śmiechu",
+        "Łzy szczęścia",
+        "Spontaniczny taniec lub podskoki",
+        "Mocne obejmowanie innych"
       ],
       "cuesLongTerm": [
-        "Adopting the subject's mannerisms or interests",
-        "Making significant life changes to be near or aligned with the subject",
-        "Neglecting one's own needs in favor of the subject's"
+        "Trwały optymizm i pozytywne nastawienie",
+        "Większa odporność na stres",
+        "Budowanie silnych, pozytywnych relacji",
+        "Promienny, pogodny wyraz twarzy"
       ],
       "actorPrompts": [
-        "Show adoration for someone who doesn't know you exist.",
-        "Express adoration for an inanimate object.",
-        "Try to hide your adoration for someone in a formal setting."
+        "Zagraj osobę, która właśnie wygrała na loterii, ale musi utrzymać to w tajemnicy.",
+        "Okaż czystą radość z bardzo małej, prostej rzeczy (np. smaku kawy).",
+        "Spróbuj pocieszyć kogoś, emanując spokojną, niewymuszoną radością."
       ]
     },
     {
-      "name": "ANXIETY",
-      "definition": "A feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome.",
+      "name": "GNIEW",
+      "definition": "Silna, gwałtowna reakcja emocjonalna na frustrację, krzywdę lub zagrożenie.",
       "physicalSignals": [
-        "Fidgeting, tapping fingers or feet",
-        "Pacing",
-        "Sweaty palms",
-        "A shaky or trembling voice",
-        "Avoiding eye contact",
-        "Biting nails or lips",
-        "Clenched jaw, tight shoulders",
-        "Rapid, shallow breathing",
-        "Crossing arms tightly over the chest"
+        "Zaciśnięte pięści i szczęka",
+        "Zmarszczone brwi, zwężone oczy",
+        "Zaczerwieniona twarz",
+        "Napięte mięśnie (ramiona, kark)",
+        "Podniesiony, ostry ton głosu",
+        "Gwałtowne, szarpane ruchy",
+        "Wskazywanie palcem, naruszanie przestrzeni osobistej",
+        "Przyspieszony, ciężki oddech"
       ],
       "internalSensations": [
-        "A knot in the stomach",
-        "Racing heart, palpitations",
-        "Dizziness or lightheadedness",
-        "A feeling of dread",
-        "Dry mouth",
-        "Muscles feeling tense and sore"
+        "Uczucie gorąca rozchodzącego się po ciele",
+        "Walenie serca, wzrost ciśnienia krwi",
+        "Ucisk w klatce piersiowej",
+        "Drżenie rąk z nadmiaru adrenaliny",
+        "Suchość w ustach"
       ],
       "mentalResponses": [
-        "Racing thoughts, inability to concentrate",
-        "Catastrophizing, imagining the worst-case scenario",
-        "Overthinking past conversations and actions",
-        "A desperate need for reassurance",
-        "Feeling of being overwhelmed and out of control"
+        "Myśli o zemście lub konfrontacji",
+        "Skupienie na źródle krzywdy, obwinianie",
+        "Trudność w logicznym myśleniu, impulsywność",
+        "Poczucie bycia potraktowanym niesprawiedliwie",
+        "Chęć zniszczenia lub zaatakowania"
       ],
       "cuesAcute": [
-        "Panic attack",
-        "Hyperventilating",
-        "Feeling of detachment from reality",
-        "An urgent need to escape the situation"
+        "Krzyk, wrzask",
+        "Rzucanie przedmiotami",
+        "Fizyczna agresja",
+        "Nagłe zerwanie kontaktu, wyjście z pomieszczenia"
       ],
       "cuesLongTerm": [
-        "Chronic fatigue, sleep problems",
-        "Social withdrawal",
-        "Development of obsessive-compulsive behaviors",
-        "Difficulty making decisions"
+        "Cynizm, wrogość wobec świata",
+        "Problemy z nadciśnieniem, choroby serca",
+        "Trudności w utrzymaniu relacji",
+        "Pasywna agresja, sarkazm"
       ],
       "actorPrompts": [
-        "Perform a simple, everyday task (like making tea) with overwhelming anxiety.",
-        "Try to deliver a confident speech while internally battling severe anxiety.",
-        "Wait for a phone call that will change your life."
+        "Zagraj narastający gniew, który zaczyna się od lekkiej irytacji, a kończy furią.",
+        "Spróbuj ukryć swój gniew podczas oficjalnej kolacji.",
+        "Prowadzisz samochód i ktoś zajeżdża ci drogę. Pokaż reakcję."
       ]
     },
     {
-      "name": "CONFIDENCE",
-      "definition": "The feeling or belief that one can rely on someone or something; firm trust.",
+      "name": "STRACH",
+      "definition": "Nieprzyjemna emocja wywołana postrzeganiem niebezpieczeństwa, bólu lub krzywdy.",
       "physicalSignals": [
-        "Erect, open posture",
-        "Shoulders back, chest out",
-        "Firm, steady handshake",
-        "Purposeful, measured movements",
-        "Direct, unwavering eye contact",
-        "A clear, steady voice with controlled pitch",
-        "Smiling easily and genuinely",
-        "Taking up space, not shrinking away"
+        "Szeroko otwarte oczy, rozszerzone źrenice",
+        "Podniesione brwi",
+        "Blada cera",
+        "Drżenie, dreszcze",
+        "Pocenie się",
+        "Cichy, zduszony lub piskliwy głos",
+        "Chęć ucieczki lub zastygniecie w bezruchu",
+        "Podkulony ogon, chowanie się za przedmiotami"
       ],
       "internalSensations": [
-        "A feeling of calm and centeredness",
-        "Steady heartbeat",
-        "Feeling of physical strength and capability",
-        "Clear-headedness"
+        "Uczucie zimna",
+        "Ucisk w żołądku, mdłości",
+        "Przyspieszone, płytkie bicie serca",
+        "Brak tchu",
+        "Suchość w gardle"
       ],
       "mentalResponses": [
-        "Positive self-talk",
-        "Focus on solutions, not problems",
-        "Ability to make decisions quickly and trust them",
-        "Not seeking approval from others",
-        "Feeling of being in control of one's life and choices"
+        "Myśli o zagrożeniu i najgorszych scenariuszach (katastrofizacja)",
+        "Wyostrzone zmysły, nadwrażliwość na bodźce",
+        "Poczucie bezradności i utraty kontroli",
+        "Intensywne skupienie na źródle zagrożenia",
+        "Paraliż decyzyjny"
       ],
       "cuesAcute": [
-        "Taking on a leadership role naturally",
-        "Handling a crisis with calm authority",
-        "Speaking truth to power without fear"
+        "Krzyk przerażenia",
+        "Paniczna ucieczka",
+        "Całkowite zastygniecie (paraliż)",
+        "Omdlenie"
       ],
       "cuesLongTerm": [
-        "Achieving long-term goals",
-        "Building strong, healthy relationships",
-        "Inspiring trust and confidence in others",
-        "Resilience in the face of setbacks"
+        "Chroniczny niepokój, lęki, fobie",
+        "Bezsenność, koszmary nocne",
+        "Unikanie miejsc lub sytuacji kojarzących się z zagrożeniem",
+        "Nadmierna czujność i nieufność"
       ],
       "actorPrompts": [
-        "Enter a room full of strangers as if you own the place.",
-        "Explain a complex topic you know nothing about with complete confidence.",
-        "Calmly defuse a tense argument between two other people."
+        "Idziesz sam w nocy przez ciemny las.",
+        "Otwierasz list, którego treści panicznie się boisz.",
+        "Zagraj strach przed czymś abstrakcyjnym, np. przed ciszą."
+      ]
+    },
+    {
+      "name": "SMUTEK",
+      "definition": "Emocjonalny ból związany z uczuciem straty, rozczarowania, żalu lub bezradności.",
+      "physicalSignals": [
+        "Opadnięte kąciki ust i ramiona",
+        "Zgarbiona postawa",
+        "Puste, pozbawione blasku spojrzenie, spuszczony wzrok",
+        "Łzy, płacz (cichy szloch lub głośny lament)",
+        "Powolne, ciężkie ruchy",
+        "Cichy, monotonny głos",
+        "Brak apetytu lub objadanie się",
+        "Zaniedbanie wyglądu"
+      ],
+      "internalSensations": [
+        "Uczucie ciężkości lub pustki w klatce piersiowej",
+        "Ścisk w gardle",
+        "Brak energii, zmęczenie",
+        "Fizyczny ból (głowy, brzucha)"
+      ],
+      "mentalResponses": [
+        "Negatywne myśli o sobie, świecie i przyszłości",
+        "Rozpamiętywanie straty",
+        "Trudności z koncentracją",
+        "Poczucie beznadziei i bezsensu",
+        "Izolowanie się od innych"
+      ],
+      "cuesAcute": [
+        "Niepowstrzymany płacz",
+        "Całkowita apatia i brak reakcji na bodźce",
+        "Fizyczne zwinięcie się w kłębek (pozycja embrionalna)"
+      ],
+      "cuesLongTerm": [
+        "Depresja",
+        "Społeczna izolacja",
+        "Chroniczne zmęczenie i problemy zdrowotne",
+        "Pesymizm"
+      ],
+      "actorPrompts": [
+        "Patrzysz na stare zdjęcie, które przywołuje wspomnienie utraconej osoby.",
+        "Próbujesz udawać, że wszystko jest w porządku na rodzinnym spotkaniu.",
+        "Słuchasz piosenki, która wywołuje w Tobie głęboki smutek."
+      ]
+    },
+    {
+      "name": "ZASKOCZENIE",
+      "definition": "Krótkotrwała emocja będąca reakcją na coś nieoczekiwanego.",
+      "physicalSignals": [
+        "Szeroko otwarte oczy, uniesione brwi",
+        "Otwarcie ust, gwałtowny wdech",
+        "Uniesienie rąk do twarzy",
+        "Cofnięcie się o krok",
+        "Chwilowe zastygniecie w bezruchu",
+        "Podniesiony ton głosu, krzyk zdziwienia"
+      ],
+      "internalSensations": [
+        "Nagły skok adrenaliny",
+        "Chwilowe zatrzymanie akcji serca, a następnie jej przyspieszenie",
+        "Uczucie 'pustki w głowie'"
+      ],
+      "mentalResponses": [
+        "Chwilowa dezorientacja",
+        "Próba szybkiego zrozumienia nowej sytuacji",
+        "Wzmożona czujność",
+        "Pytania w głowie: 'Co się dzieje?'"
+      ],
+      "cuesAcute": [
+        "Podskok",
+        "Upuszczenie trzymanego przedmiotu",
+        "Głośny okrzyk ('Och!', 'Co?!')"
+      ],
+      "cuesLongTerm": [
+        "Zaskoczenie rzadko jest długotrwałe; szybko przechodzi w inną emocję (radość, strach, ciekawość)."
+      ],
+      "actorPrompts": [
+        "Otwierasz drzwi, spodziewając się listonosza, a widzisz kogoś, kogo nie widziałeś od 20 lat.",
+        "W środku nocy słyszysz niespodziewany hałas w domu.",
+        "Dowiadujesz się kompletnie absurdalnej, ale prawdziwej informacji."
+      ]
+    },
+    {
+      "name": "WSTRĘT",
+      "definition": "Silna awersja i odraza do czegoś, co jest postrzegane jako nieczyste, obraźliwe lub toksyczne.",
+      "physicalSignals": [
+        "Zmarszczony nos, uniesiona górna warga",
+        "Odwracanie głowy, unikanie kontaktu wzrokowego",
+        "Cofanie się, odsuwanie",
+        "Osłanianie ust lub nosa dłonią",
+        "Dźwięki wyrażające obrzydzenie ('fuj', 'ble')",
+        "Grymas na twarzy"
+      ],
+      "internalSensations": [
+        "Mdłości, odruch wymiotny",
+        "Uczucie skażenia, chęć natychmiastowego umycia się",
+        "Gęsia skórka"
+      ],
+      "mentalResponses": [
+        "Myśli o zanieczyszczeniu, brudzie, chorobie",
+        "Silna potrzeba zdystansowania się od obiektu wstrętu",
+        "Moralne oburzenie (jeśli wstręt dotyczy zachowania)",
+        "Ocena czegoś jako 'nienaturalnego' lub 'złego'"
+      ],
+      "cuesAcute": [
+        "Wymioty",
+        "Gwałtowne odsunięcie się",
+        "Krzyk obrzydzenia"
+      ],
+      "cuesLongTerm": [
+        "Fobie związane z brudem (mizofobia)",
+        "Uprzedzenia i nietolerancja wobec grup społecznych",
+        "Nadmierna dbałość o czystość"
+      ],
+      "actorPrompts": [
+        "Musisz zjeść coś, co budzi w tobie skrajny wstręt.",
+        "Słuchasz kogoś, kto opowiada o swoich poglądach, które uważasz za moralnie odrażające.",
+        "Sprzątasz bardzo zaniedbane, brudne pomieszczenie."
+      ]
+    },
+    {
+      "name": "UWIELBIENIE",
+      "definition": "Uczucie głębokiej miłości i szacunku; czczenie kogoś lub czegoś.",
+      "physicalSignals": [
+        "Zrelaksowana postawa, pochylanie się w stronę obiektu",
+        "Uśmiech, promienny wyraz twarzy",
+        "Szeroko otwarte, lśniące oczy",
+        "Bezpośredni i długotrwały kontakt wzrokowy",
+        "Dotykanie obiektu (dłoń na ramieniu, głaskanie włosów)",
+        "Zmiękczony, ciepły ton głosu",
+        "Naśladowanie mowy ciała obiektu"
+      ],
+      "internalSensations": [
+        "Uczucie ciepła w klatce piersiowej",
+        "Motyle w brzuchu",
+        "Przyspieszone bicie serca",
+        "Utrata tchu w obecności obiektu"
+      ],
+      "mentalResponses": [
+        "Idealizowanie obiektu, niedostrzeganie wad",
+        "Pragnienie zadowolenia i ochrony obiektu",
+        "Utrata poczucia czasu w jego obecności",
+        "Ciągłe myślenie o obiekcie"
+      ],
+      "cuesAcute": [
+        "Łzy wzruszenia",
+        "Niezdolność do mówienia",
+        "Promienny, niemal świetlisty wyraz twarzy"
+      ],
+      "cuesLongTerm": [
+        "Przejmowanie manieryzmów lub zainteresowań obiektu",
+        "Dokonywanie znaczących zmian w życiu, by być blisko obiektu",
+        "Zaniedbywanie własnych potrzeb na rzecz potrzeb obiektu"
+      ],
+      "actorPrompts": [
+        "Okaż uwielbienie dla kogoś, kto nie wie o twoim istnieniu.",
+        "Wyraź uwielbienie dla nieożywionego przedmiotu.",
+        "Spróbuj ukryć swoje uwielbienie dla kogoś w formalnej sytuacji."
+      ]
+    },
+    {
+      "name": "OCZEKIWANIE",
+      "definition": "Stan skupienia na przyszłym wydarzeniu, połączony z uczuciem nadziei lub niepokoju.",
+      "physicalSignals": [
+        "Wiercenie się, przestępowanie z nogi na nogę",
+        "Stukanie palcami, obgryzanie paznokci",
+        "Częste spoglądanie na zegarek lub w kierunku, z którego coś ma nadejść",
+        "Napięta, pochylona do przodu postawa",
+        "Niespokojne, rozbiegane spojrzenie",
+        "Powtarzanie tych samych, drobnych ruchów"
+      ],
+      "internalSensations": [
+        "Niepokój w żołądku, 'ścisk'",
+        "Przyspieszone tętno",
+        "Napięcie mięśni",
+        "Poczucie, że czas płynie bardzo wolno"
+      ],
+      "mentalResponses": [
+        "Ciągłe myślenie o nadchodzącym wydarzeniu",
+        "Tworzenie w głowie różnych scenariuszy (pozytywnych lub negatywnych)",
+        "Trudności w skupieniu się na czymkolwiek innym",
+        "Poczucie podekscytowania lub lęku"
+      ],
+      "cuesAcute": [
+        "Ciągłe pytanie 'Czy już?'",
+        "Niezdolność do usiedzenia w miejscu",
+        "Wybieganie komuś/czemuś na spotkanie"
+      ],
+      "cuesLongTerm": [
+        "Bezsenność przed ważnym dniem",
+        "Stres i wyczerpanie nerwowe",
+        "Planowanie i przygotowywanie się na przyszłe wydarzenie"
+      ],
+      "actorPrompts": [
+        "Czekasz na wynik egzaminu, który zadecyduje o twojej przyszłości.",
+        "Jesteś dzieckiem czekającym na Gwiazdkę.",
+        "Czekasz na kogoś, kto bardzo się spóźnia, a twoje oczekiwanie zamienia się z ekscytacji w irytację i niepokój."
       ]
     }
   ],
@@ -191,3 +388,4 @@
     }
   ]
 }
+
