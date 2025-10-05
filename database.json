@@ -4,33 +4,42 @@
       "name": "RADOŚĆ",
       "definition": "Uczucie wielkiej przyjemności i szczęścia.",
       "physicalSignals": [
-        "Uśmiech (szeroki, autentyczny, unoszący kąciki ust i marszczący oczy)",
+        "Szeroki, autentyczny uśmiech (angażujący mięśnie wokół oczu)",
         "Lśniące, żywe oczy",
+        "Śmiech, chichot, parskanie",
+        "Lekki, sprężysty krok, podskakiwanie",
+        "Ożywiona, otwarta mowa ciała",
+        "Mówienie wyższym, melodyjnym tonem",
+        "Szybkie mówienie, entuzjastyczne gestykulowanie",
         "Zrelaksowana postawa, otwarte ramiona",
-        "Lekki, sprężysty krok",
-        "Śmiech, chichot",
-        "Ożywiona gestykulacja",
-        "Wyższy, bardziej melodyjny ton głosu",
-        "Zwiększona energia, lekkie podskakiwanie"
+        "Klaszczenie w dłonie",
+        "Zaczepne, przyjazne dotykanie innych",
+        "Wiercenie się, niezdolność do usiedzenia w miejscu",
+        "Kręcenie się w kółko, spontaniczny taniec"
       ],
       "internalSensations": [
-        "Uczucie lekkości i ciepła w klatce piersiowej",
-        "Przyspieszone, ale miarowe bicie serca",
-        "Motyle w brzuchu",
-        "Poczucie przypływu energii"
+        "Uczucie lekkości, jakby się unosiło",
+        "Ciepło rozchodzące się po klatce piersiowej i ciele",
+        "Motyle w brzuchu, przyjemny ucisk",
+        "Przyspieszone, ale miarowe i mocne bicie serca",
+        "Poczucie przypływu energii, mrowienie",
+        "Głęboki, łatwy oddech"
       ],
       "mentalResponses": [
         "Optymistyczne myślenie, skupienie na pozytywach",
-        "Poczucie wdzięczności",
+        "Poczucie wdzięczności i błogostanu",
         "Chęć dzielenia się swoim szczęściem z innymi",
         "Zwiększona kreatywność i otwartość na nowe pomysły",
-        "Postrzeganie świata jako przyjaznego i pełnego możliwości"
+        "Postrzeganie świata jako przyjaznego i pełnego możliwości",
+        "Zmniejszona zdolność do dostrzegania zagrożeń",
+        "Uczucie bycia nie do zatrzymania, pewność siebie"
       ],
       "cuesAcute": [
         "Wybuchy głośnego, niekontrolowanego śmiechu",
         "Łzy szczęścia",
         "Spontaniczny taniec lub podskoki",
-        "Mocne obejmowanie innych"
+        "Mocne obejmowanie innych",
+        "Krzyki radości"
       ],
       "cuesLongTerm": [
         "Trwały optymizm i pozytywne nastawienie",
@@ -49,39 +58,45 @@
       "definition": "Silna, gwałtowna reakcja emocjonalna na frustrację, krzywdę lub zagrożenie.",
       "physicalSignals": [
         "Zaciśnięte pięści i szczęka",
-        "Zmarszczone brwi, zwężone oczy",
-        "Zaczerwieniona twarz",
-        "Napięte mięśnie (ramiona, kark)",
-        "Podniesiony, ostry ton głosu",
-        "Gwałtowne, szarpane ruchy",
-        "Wskazywanie palcem, naruszanie przestrzeni osobistej",
-        "Przyspieszony, ciężki oddech"
+        "Zmarszczone brwi, zwężone oczy, świdrujące spojrzenie",
+        "Zaczerwieniona, nabiegła krwią twarz",
+        "Napięte mięśnie (ramiona, kark, plecy)",
+        "Podniesiony, ostry, zduszony lub warczący ton głosu",
+        "Gwałtowne, szarpane ruchy, naruszanie przestrzeni osobistej",
+        "Wskazywanie palcem, postawa konfrontacyjna",
+        "Przyspieszony, ciężki oddech, prychanie",
+        "Drżenie, widoczne pulsowanie żył na szyi i czole",
+        "Uderzanie pięścią w stół, kopanie przedmiotów",
+        "Wytrzeszczanie oczu"
       ],
       "internalSensations": [
-        "Uczucie gorąca rozchodzącego się po ciele",
+        "Uczucie gorąca rozchodzącego się po ciele, 'gotowanie się'",
         "Walenie serca, wzrost ciśnienia krwi",
-        "Ucisk w klatce piersiowej",
+        "Ucisk w klatce piersiowej i gardle",
         "Drżenie rąk z nadmiaru adrenaliny",
-        "Suchość w ustach"
+        "Suchość w ustach",
+        "Ból brzucha, uczucie kwasu w żołądku"
       ],
       "mentalResponses": [
-        "Myśli o zemście lub konfrontacji",
+        "Obsesyjne myśli o zemście lub konfrontacji",
         "Skupienie na źródle krzywdy, obwinianie",
-        "Trudność w logicznym myśleniu, impulsywność",
+        "Trudność w logicznym myśleniu, tunelowe widzenie",
         "Poczucie bycia potraktowanym niesprawiedliwie",
-        "Chęć zniszczenia lub zaatakowania"
+        "Chęć zniszczenia, zaatakowania lub ucieczki",
+        "Utrata empatii, dehumanizacja celu gniewu",
+        "Argumentowanie ze sobą w myślach"
       ],
       "cuesAcute": [
-        "Krzyk, wrzask",
-        "Rzucanie przedmiotami",
-        "Fizyczna agresja",
+        "Krzyk, wrzask, ryk",
+        "Rzucanie przedmiotami, niszczenie mienia",
+        "Fizyczna agresja wobec siebie lub innych",
         "Nagłe zerwanie kontaktu, wyjście z pomieszczenia"
       ],
       "cuesLongTerm": [
         "Cynizm, wrogość wobec świata",
         "Problemy z nadciśnieniem, choroby serca",
         "Trudności w utrzymaniu relacji",
-        "Pasywna agresja, sarkazm"
+        "Pasywna agresja, sarkazm, wieczne narzekanie"
       ],
       "actorPrompts": [
         "Zagraj narastający gniew, który zaczyna się od lekkiej irytacji, a kończy furią.",
@@ -94,33 +109,36 @@
       "definition": "Nieprzyjemna emocja wywołana postrzeganiem niebezpieczeństwa, bólu lub krzywdy.",
       "physicalSignals": [
         "Szeroko otwarte oczy, rozszerzone źrenice",
-        "Podniesione brwi",
-        "Blada cera",
-        "Drżenie, dreszcze",
-        "Pocenie się",
-        "Cichy, zduszony lub piskliwy głos",
-        "Chęć ucieczki lub zastygniecie w bezruchu",
-        "Podkulony ogon, chowanie się za przedmiotami"
+        "Podniesione brwi, poziome zmarszczki na czole",
+        "Blada, spocona cera, gęsia skórka",
+        "Drżenie, dreszcze, szczękanie zębami",
+        "Cichy, zduszony lub piskliwy głos, jąkanie się",
+        "Chęć ucieczki, zastygniecie w bezruchu lub walka",
+        "Podkulony ogon, chowanie się, pozycja embrionalna",
+        "Niespokojne ruchy, nerwowe spoglądanie na boki",
+        "Podniesione ramiona, chęć osłonięcia głowy i szyi"
       ],
       "internalSensations": [
-        "Uczucie zimna",
-        "Ucisk w żołądku, mdłości",
+        "Uczucie zimna, lodowaty dreszcz",
+        "Ucisk w żołądku, mdłości, 'serce podchodzące do gardła'",
         "Przyspieszone, płytkie bicie serca",
-        "Brak tchu",
-        "Suchość w gardle"
+        "Brak tchu, hiperwentylacja",
+        "Suchość w gardle, trudności z przełykaniem",
+        "Osłabienie mięśni, uczucie 'nóg jak z waty'"
       ],
       "mentalResponses": [
         "Myśli o zagrożeniu i najgorszych scenariuszach (katastrofizacja)",
-        "Wyostrzone zmysły, nadwrażliwość na bodźce",
+        "Wyostrzone zmysły, nadwrażliwość na dźwięki i ruch",
         "Poczucie bezradności i utraty kontroli",
-        "Intensywne skupienie na źródle zagrożenia",
-        "Paraliż decyzyjny"
+        "Intensywne skupienie na źródle zagrożenia lub drodze ucieczki",
+        "Paraliż decyzyjny, pustka w głowie",
+        "Poczucie nierealności, jakby oglądało się film"
       ],
       "cuesAcute": [
         "Krzyk przerażenia",
-        "Paniczna ucieczka",
+        "Paniczna ucieczka bez względu na przeszkody",
         "Całkowite zastygniecie (paraliż)",
-        "Omdlenie"
+        "Omdlenie, utrata przytomności"
       ],
       "cuesLongTerm": [
         "Chroniczny niepokój, lęki, fobie",
@@ -138,38 +156,42 @@
       "name": "SMUTEK",
       "definition": "Emocjonalny ból związany z uczuciem straty, rozczarowania, żalu lub bezradności.",
       "physicalSignals": [
-        "Opadnięte kąciki ust i ramiona",
-        "Zgarbiona postawa",
+        "Opadnięte kąciki ust i ramiona, zgarbiona postawa",
         "Puste, pozbawione blasku spojrzenie, spuszczony wzrok",
-        "Łzy, płacz (cichy szloch lub głośny lament)",
-        "Powolne, ciężkie ruchy",
-        "Cichy, monotonny głos",
-        "Brak apetytu lub objadanie się",
-        "Zaniedbanie wyglądu"
+        "Łzy, płacz (cichy szloch, głośny lament, drżąca dolna warga)",
+        "Powolne, ciężkie, pozbawione energii ruchy",
+        "Cichy, monotonny, łamiący się głos",
+        "Zaniedbanie wyglądu, brak dbałości o siebie",
+        "Brak apetytu lub objadanie się 'na pocieszenie'",
+        "Częste wzdychianie",
+        "Dotykanie klatki piersiowej, jakby bolało serce"
       ],
       "internalSensations": [
         "Uczucie ciężkości lub pustki w klatce piersiowej",
-        "Ścisk w gardle",
-        "Brak energii, zmęczenie",
-        "Fizyczny ból (głowy, brzucha)"
+        "Ścisk w gardle, 'gula'",
+        "Brak energii, chroniczne zmęczenie",
+        "Fizyczny ból (głowy, brzucha, mięśni)",
+        "Poczucie zimna, odrętwienia"
       ],
       "mentalResponses": [
         "Negatywne myśli o sobie, świecie i przyszłości",
-        "Rozpamiętywanie straty",
-        "Trudności z koncentracją",
-        "Poczucie beznadziei i bezsensu",
-        "Izolowanie się od innych"
+        "Rozpamiętywanie straty, ciągłe wracanie do wspomnień",
+        "Trudności z koncentracją i podejmowaniem decyzji",
+        "Poczucie beznadziei, bezsensu i apatii",
+        "Izolowanie się od innych, odrzucanie prób pocieszenia",
+        "Utrata zainteresowania pasjami i przyjemnościami"
       ],
       "cuesAcute": [
-        "Niepowstrzymany płacz",
+        "Niepowstrzymany płacz, zanoszenie się od płaczu",
         "Całkowita apatia i brak reakcji na bodźce",
-        "Fizyczne zwinięcie się w kłębek (pozycja embrionalna)"
+        "Fizyczne zwinięcie się w kłębek (pozycja embrionalna)",
+        "Destrukcyjne myśli"
       ],
       "cuesLongTerm": [
-        "Depresja",
+        "Depresja, chroniczna melancholia",
         "Społeczna izolacja",
         "Chroniczne zmęczenie i problemy zdrowotne",
-        "Pesymizm"
+        "Głęboki pesymizm"
       ],
       "actorPrompts": [
         "Patrzysz na stare zdjęcie, które przywołuje wspomnienie utraconej osoby.",
@@ -182,30 +204,32 @@
       "definition": "Krótkotrwała emocja będąca reakcją na coś nieoczekiwanego.",
       "physicalSignals": [
         "Szeroko otwarte oczy, uniesione brwi",
-        "Otwarcie ust, gwałtowny wdech",
-        "Uniesienie rąk do twarzy",
-        "Cofnięcie się o krok",
+        "Otwarcie ust, gwałtowny wdech ('ach!')",
+        "Uniesienie rąk do twarzy, zakrycie ust",
+        "Cofnięcie się o krok lub podskok",
         "Chwilowe zastygniecie w bezruchu",
-        "Podniesiony ton głosu, krzyk zdziwienia"
+        "Podniesiony ton głosu, krzyk zdziwienia",
+        "Upuszczenie trzymanego przedmiotu"
       ],
       "internalSensations": [
         "Nagły skok adrenaliny",
-        "Chwilowe zatrzymanie akcji serca, a następnie jej przyspieszenie",
-        "Uczucie 'pustki w głowie'"
+        "Chwilowe 'zatrzymanie' akcji serca, a następnie jej przyspieszenie",
+        "Uczucie 'pustki w głowie', chwilowy brak myśli",
+        "Nagłe wyostrzenie zmysłów"
       ],
       "mentalResponses": [
-        "Chwilowa dezorientacja",
-        "Próba szybkiego zrozumienia nowej sytuacji",
-        "Wzmożona czujność",
-        "Pytania w głowie: 'Co się dzieje?'"
+        "Chwilowa dezorientacja i szok",
+        "Próba szybkiego zrozumienia i zinterpretowania nowej sytuacji",
+        "Wzmożona czujność i skupienie uwagi",
+        "Pytania w głowie: 'Co się dzieje?', 'Jak to możliwe?'"
       ],
       "cuesAcute": [
-        "Podskok",
-        "Upuszczenie trzymanego przedmiotu",
-        "Głośny okrzyk ('Och!', 'Co?!')"
+        "Podskok w miejscu",
+        "Głośny okrzyk ('Och!', 'Co?!', 'Jezu!')",
+        "Zakrycie ust dłońmi"
       ],
       "cuesLongTerm": [
-        "Zaskoczenie rzadko jest długotrwałe; szybko przechodzi w inną emocję (radość, strach, ciekawość)."
+        "Zaskoczenie rzadko jest długotrwałe; szybko przechodzi w inną emocję (radość, strach, ciekawość, gniew)."
       ],
       "actorPrompts": [
         "Otwierasz drzwi, spodziewając się listonosza, a widzisz kogoś, kogo nie widziałeś od 20 lat.",
@@ -218,32 +242,35 @@
       "definition": "Silna awersja i odraza do czegoś, co jest postrzegane jako nieczyste, obraźliwe lub toksyczne.",
       "physicalSignals": [
         "Zmarszczony nos, uniesiona górna warga",
-        "Odwracanie głowy, unikanie kontaktu wzrokowego",
-        "Cofanie się, odsuwanie",
+        "Odwracanie głowy, unikanie kontaktu wzrokowego ze źródłem",
+        "Cofanie się, odsuwanie, utrzymywanie dystansu",
         "Osłanianie ust lub nosa dłonią",
-        "Dźwięki wyrażające obrzydzenie ('fuj', 'ble')",
-        "Grymas na twarzy"
+        "Dźwięki wyrażające obrzydzenie ('fuj', 'ble', odgłos dławienia)",
+        "Grymas na twarzy, wykrzywienie ust",
+        "Wzdrygnięcie, otrząśnięcie się"
       ],
       "internalSensations": [
-        "Mdłości, odruch wymiotny",
+        "Mdłości, odruch wymiotny, ucisk w żołądku",
         "Uczucie skażenia, chęć natychmiastowego umycia się",
-        "Gęsia skórka"
+        "Gęsia skórka, nieprzyjemny dreszcz",
+        "Utrata apetytu"
       ],
       "mentalResponses": [
-        "Myśli o zanieczyszczeniu, brudzie, chorobie",
+        "Myśli o zanieczyszczeniu, brudzie, chorobie, zepsuciu",
         "Silna potrzeba zdystansowania się od obiektu wstrętu",
-        "Moralne oburzenie (jeśli wstręt dotyczy zachowania)",
-        "Ocena czegoś jako 'nienaturalnego' lub 'złego'"
+        "Moralne oburzenie i osąd (jeśli wstręt dotyczy zachowania)",
+        "Ocena czegoś jako 'nienaturalnego', 'złego' lub 'niebezpiecznego'",
+        "Chęć 'oczyszczenia' przestrzeni lub siebie"
       ],
       "cuesAcute": [
-        "Wymioty",
-        "Gwałtowne odsunięcie się",
+        "Wymioty, odruch wymiotny",
+        "Gwałtowne odsunięcie się, ucieczka",
         "Krzyk obrzydzenia"
       ],
       "cuesLongTerm": [
         "Fobie związane z brudem (mizofobia)",
         "Uprzedzenia i nietolerancja wobec grup społecznych",
-        "Nadmierna dbałość o czystość"
+        "Nadmierna dbałość o czystość, zaburzenia obsesyjno-kompulsywne"
       ],
       "actorPrompts": [
         "Musisz zjeść coś, co budzi w tobie skrajny wstręt.",
@@ -255,39 +282,43 @@
       "name": "UWIELBIENIE",
       "definition": "Uczucie głębokiej miłości i szacunku; czczenie kogoś lub czegoś.",
       "physicalSignals": [
-        "Zrelaksowana postawa, pochylanie się w stronę obiektu",
-        "Uśmiech, promienny wyraz twarzy",
-        "Szeroko otwarte, lśniące oczy",
-        "Bezpośredni i długotrwały kontakt wzrokowy",
-        "Dotykanie obiektu (dłoń na ramieniu, głaskanie włosów)",
-        "Zmiękczony, ciepły ton głosu",
-        "Naśladowanie mowy ciała obiektu"
+        "Zrelaksowana, otwarta postawa, pochylanie się w stronę obiektu",
+        "Ciepły, szczery uśmiech, promienny wyraz twarzy",
+        "Szeroko otwarte, lśniące, 'miękkie' oczy",
+        "Długotrwały, pełen ciepła kontakt wzrokowy",
+        "Delikatne dotykanie obiektu (dłoń na ramieniu, głaskanie)",
+        "Zmiękczony, ciepły, czasem lekko drżący ton głosu",
+        "Naśladowanie mowy ciała i gestów obiektu (lustrzane odbicie)",
+        "Słuchanie z pełnym skupieniem, potakiwanie"
       ],
       "internalSensations": [
-        "Uczucie ciepła w klatce piersiowej",
-        "Motyle w brzuchu",
-        "Przyspieszone bicie serca",
-        "Utrata tchu w obecności obiektu"
+        "Uczucie ciepła i ekspansji w klatce piersiowej",
+        "Motyle w brzuchu, uczucie ekscytacji",
+        "Przyspieszone, ale łagodne bicie serca",
+        "Utrata tchu w obecności obiektu, wrażenie 'braku powietrza'"
       ],
       "mentalResponses": [
-        "Idealizowanie obiektu, niedostrzeganie wad",
-        "Pragnienie zadowolenia i ochrony obiektu",
+        "Idealizowanie obiektu, niedostrzeganie lub ignorowanie wad",
+        "Pragnienie zadowolenia, uszczęśliwienia i ochrony obiektu",
         "Utrata poczucia czasu w jego obecności",
-        "Ciągłe myślenie o obiekcie"
+        "Ciągłe myślenie o obiekcie, wspominanie wspólnie spędzonych chwil",
+        "Poczucie bycia kompletnym, spełnionym"
       ],
       "cuesAcute": [
         "Łzy wzruszenia",
-        "Niezdolność do mówienia",
-        "Promienny, niemal świetlisty wyraz twarzy"
+        "Niezdolność do mówienia, 'odebrało mi mowę'",
+        "Promienny, niemal świetlisty wyraz twarzy",
+        "Poczucie euforii"
       ],
       "cuesLongTerm": [
         "Przejmowanie manieryzmów lub zainteresowań obiektu",
         "Dokonywanie znaczących zmian w życiu, by być blisko obiektu",
-        "Zaniedbywanie własnych potrzeb na rzecz potrzeb obiektu"
+        "Zaniedbywanie własnych potrzeb na rzecz potrzeb obiektu",
+        "Głębokie poczucie lojalności i oddania"
       ],
       "actorPrompts": [
         "Okaż uwielbienie dla kogoś, kto nie wie o twoim istnieniu.",
-        "Wyraź uwielbienie dla nieożywionego przedmiotu.",
+        "Wyraź uwielbienie dla nieożywionego przedmiotu (np. instrumentu, dzieła sztuki).",
         "Spróbuj ukryć swoje uwielbienie dla kogoś w formalnej sytuacji."
       ]
     },
@@ -295,38 +326,42 @@
       "name": "OCZEKIWANIE",
       "definition": "Stan skupienia na przyszłym wydarzeniu, połączony z uczuciem nadziei lub niepokoju.",
       "physicalSignals": [
-        "Wiercenie się, przestępowanie z nogi na nogę",
-        "Stukanie palcami, obgryzanie paznokci",
-        "Częste spoglądanie na zegarek lub w kierunku, z którego coś ma nadejść",
-        "Napięta, pochylona do przodu postawa",
+        "Wiercenie się, przestępowanie z nogi na nogę, kołysanie się",
+        "Stukanie palcami, obgryzanie paznokci, bawienie się włosami",
+        "Częste spoglądanie na zegarek, telefon lub w kierunku, z którego coś ma nadejść",
+        "Napięta, pochylona do przodu postawa, gotowość do startu",
         "Niespokojne, rozbiegane spojrzenie",
-        "Powtarzanie tych samych, drobnych ruchów"
+        "Powtarzanie tych samych, drobnych ruchów (np. poprawianie ubrania)",
+        "Zaciskanie i rozluźnianie dłoni",
+        "Wstrzymywanie oddechu"
       ],
       "internalSensations": [
-        "Niepokój w żołądku, 'ścisk'",
-        "Przyspieszone tętno",
-        "Napięcie mięśni",
-        "Poczucie, że czas płynie bardzo wolno"
+        "Niepokój w żołądku, 'ścisk', motyle w brzuchu",
+        "Przyspieszone tętno, pulsowanie w skroniach",
+        "Napięcie mięśni, szczególnie w ramionach i karku",
+        "Poczucie, że czas płynie bardzo wolno lub bardzo szybko",
+        "Suchość w ustach"
       ],
       "mentalResponses": [
         "Ciągłe myślenie o nadchodzącym wydarzeniu",
         "Tworzenie w głowie różnych scenariuszy (pozytywnych lub negatywnych)",
         "Trudności w skupieniu się na czymkolwiek innym",
-        "Poczucie podekscytowania lub lęku"
+        "Poczucie podekscytowania, nadziei lub lęku",
+        "Wewnętrzny dialog, próba przewidzenia wyniku"
       ],
       "cuesAcute": [
-        "Ciągłe pytanie 'Czy już?'",
-        "Niezdolność do usiedzenia w miejscu",
-        "Wybieganie komuś/czemuś na spotkanie"
+        "Ciągłe pytanie 'Czy już?', 'Długo jeszcze?'",
+        "Niezdolność do usiedzenia w miejscu, chodzenie w kółko",
+        "Wybieganie komuś/czemuś na spotkanie przed czasem"
       ],
       "cuesLongTerm": [
         "Bezsenność przed ważnym dniem",
-        "Stres i wyczerpanie nerwowe",
-        "Planowanie i przygotowywanie się na przyszłe wydarzenie"
+        "Stres i wyczerpanie nerwowe spowodowane długim oczekiwaniem",
+        "Obsesyjne planowanie i przygotowywanie się na przyszłe wydarzenie"
       ],
       "actorPrompts": [
         "Czekasz na wynik egzaminu, który zadecyduje o twojej przyszłości.",
-        "Jesteś dzieckiem czekającym na Gwiazdkę.",
+        "Jesteś dzieckiem czekającym na Gwiazdkę, podglądającym przez okno.",
         "Czekasz na kogoś, kto bardzo się spóźnia, a twoje oczekiwanie zamienia się z ekscytacji w irytację i niepokój."
       ]
     }
@@ -359,32 +394,110 @@
       "scenario": "Jesteś na przyjęciu, na którym nikogo nie znasz. Wykonuj proste czynności (nalewanie napoju, sięganie po przekąskę), jednocześnie głośno wypowiadając swoje wewnętrzne, nerwowe myśli.",
       "participants": 1,
       "tags": ["solo", "komedia", "psychologiczne"]
+    },
+    {
+      "id": "IMP005",
+      "title": "Zacięta winda",
+      "scenario": "Dwie (lub trzy) postacie utknęły w windzie. Każda z nich spieszy się w zupełnie inne, kluczowe dla niej miejsce. Czas ucieka, a pomoc nie nadchodzi.",
+      "participants": "2-3",
+      "tags": ["konflikt", "klaustrofobia", "grupa"]
+    },
+    {
+      "id": "IMP006",
+      "title": "Ostatni produkt",
+      "scenario": "W sklepie została ostatnia sztuka bardzo pożądanego produktu (np. zabawka przed świętami, ostatnia butelka wody w upał). Dwie postacie chcą go kupić w tym samym momencie.",
+      "participants": 2,
+      "tags": ["rywalizacja", "codzienne", "para"]
+    },
+    {
+      "id": "IMP007",
+      "title": "Tłumacz",
+      "scenario": "Postać A mówi tylko w wymyślonym języku (gżegżółka). Postać B jest jej 'tłumaczem'. Postać C próbuje prowadzić z nimi poważną rozmowę (np. negocjacje biznesowe). Tłumacz może celowo zmieniać znaczenie wypowiedzi.",
+      "participants": 3,
+      "tags": ["komedia", "kreatywność", "grupa"]
+    },
+    {
+      "id": "IMP008",
+      "title": "Ławka w parku",
+      "scenario": "Dwie obce osoby siadają na tej samej ławce w parku. Postać A desperacko chce z kimś porozmawiać. Postać B chce za wszelką cenę być pozostawiona w spokoju. Komunikacja odbywa się głównie niewerbalnie.",
+      "participants": 2,
+      "tags": ["subtekst", "niewerbalne", "para"]
+    },
+    {
+      "id": "IMP009",
+      "title": "Rozmowa telefoniczna",
+      "scenario": "Postać odbiera telefon ze zmieniającą życie wiadomością (dobrą lub złą). Problem w tym, że znajduje się w miejscu, gdzie musi zachować absolutną ciszę (np. biblioteka, muzeum, kościół).",
+      "participants": 1,
+      "tags": ["solo", "ograniczenie", "wewnętrzny konflikt"]
+    },
+    {
+      "id": "IMP010",
+      "title": "Historia przedmiotu",
+      "scenario": "Prowadzący podaje neutralny przedmiot (np. klucz, guzik, filiżanka). Każdy uczestnik po kolei bierze go do ręki i improwizuje krótki monolog jako osoba, do której ten przedmiot kiedyś należał, nadając mu emocjonalną historię.",
+      "participants": "1+",
+      "tags": ["kreatywność", "storytelling", "grupa"]
     }
   ],
   "physicalExercises": [
     {
       "id": "PHY001",
-      "title": "Przemieszczająca się kulka",
-      "description": "Wyobraź sobie, że wewnątrz Twojej głowy znajduje się mała, ciężka, metalowa kulka. Poruszaj głową bardzo powoli, czując jak kulka bezwładnie przemieszcza się wewnątrz, uderzając o ściany czaszki. Zbadaj, jak ten obraz wpływa na resztę Twojego ciała.",
-      "goal": "Izolacja, koncentracja, świadomość wewnętrznej przestrzeni."
+      "title": "Rzeka w kręgosłupie",
+      "description": "Wyobraź sobie, że twój kręgosłup, od kości ogonowej aż po czubek głowy, jest płynną, ciepłą rzeką. Inicjuj każdy ruch z tej rzeki. Zginaj się, prostuj i skręcaj, czując, jak woda swobodnie przepływa między kręgami, bez żadnych blokad.",
+      "goal": "Uwolnienie napięć w kręgosłupie, płynność ruchu, połączenie z centrum ciała."
     },
     {
       "id": "PHY002",
-      "title": "Magnetyczne dłonie",
-      "description": "Stań prosto, unieś dłonie na wysokość klatki piersiowej, wnętrzami do siebie. Wyobraź sobie, że są to dwa magnesy o tych samych biegunach, które się odpychają. Spróbuj je do siebie zbliżyć, walcząc z niewidzialną siłą.",
-      "goal": "Budowanie napięcia, praca z oporem, odczuwanie energii."
+      "title": "Pływające obojczyki",
+      "description": "Połóż opuszki palców na obojczykach. Wyobraź sobie, że są to dwa małe statki unoszące się na wodzie. Kiedy podnosisz ramiona, statki unoszą się na fali. Kiedy opuszczasz, spokojnie opadają. Niech ruch ramion będzie lekki i bezwysiłkowy.",
+      "goal": "Redukcja napięcia w barkach i szyi, poszerzenie klatki piersiowej, lekkość."
     },
     {
       "id": "PHY003",
-      "title": "Przyklejone stopy",
-      "description": "Wyobraź sobie, że podeszwy Twoich stóp zostały przyklejone do podłogi bardzo mocnym klejem. Chcesz pilnie dostać się na drugi koniec pokoju. Spróbuj iść, nie odrywając stóp od podłoża. Jak pracuje Twoje ciało, aby się przemieścić?",
-      "goal": "Frustracja, praca z ograniczeniem, znajdowanie alternatywnych ścieżek ruchu."
+      "title": "Taniec żeber",
+      "description": "Wyobraź sobie, że twoja klatka piersiowa jest jak akordeon lub wachlarz. Z każdym wdechem żebra rozszerzają się na boki, do przodu i do tyłu. Z każdym wydechem, delikatnie wracają. Pozwól, by oddech inicjował trójwymiarowy ruch żeber.",
+      "goal": "Poprawa jakości oddechu, zwiększenie elastyczności klatki piersiowej, uwolnienie przepony."
     },
     {
       "id": "PHY004",
-      "title": "Niewidzialna ściana",
-      "description": "Idź przed siebie. W pewnym momencie natrafiasz na całkowicie przezroczystą, niewidzialną ścianę. Zbadaj ją dłońmi, twarzą, całym ciałem. Spróbuj znaleźć jej krawędzie, fakturę, temperaturę. Spróbuj ją przesunąć.",
-      "goal": "Praca z wyobrażonym obiektem, precyzja ruchu, sensoryka."
+      "title": "Diament miednicy",
+      "description": "Usiądź wygodnie i wyobraź sobie, że twoja miednica jest misą wypełnioną wodą. Delikatnie kołysz miednicą w przód i w tył oraz na boki, starając się nie wylać ani kropli. Poczuj, jak kości kulszowe (te, na których siedzisz) masują podłoże.",
+      "goal": "Ustabilizowanie i uelastycznienie miednicy, uwolnienie dolnego odcinka pleców."
+    },
+    {
+      "id": "PHY005",
+      "title": "Kości udowe jak pędzle",
+      "description": "Stojąc, wyobraź sobie, że twoje kości udowe wydłużają się w dół i zamieniają w dwa długie pędzle. Z każdym krokiem 'maluj' podłogę pociągłymi, płynnymi ruchami. Poczuj, jak ruch wychodzi z samego stawu biodrowego, a nie z kolana.",
+      "goal": "Zwiększenie świadomości stawów biodrowych, płynny i wydajny chód."
+    },
+    {
+      "id": "PHY006",
+      "title": "Korzenie i gałęzie",
+      "description": "Stań mocno na ziemi. Wyobraź sobie, że z twoich stóp wyrastają korzenie, które wrastają głęboko w ziemię. Jednocześnie, czubek twojej głowy i palce u rąk są gałęziami, które sięgają wysoko do słońca. Poczuj jednoczesne uziemienie i wydłużenie.",
+      "goal": "Poprawa równowagi, poczucie stabilności i wydłużenia, dynamiczna postawa."
+    },
+    {
+      "id": "PHY007",
+      "title": "Stawy jak gąbki",
+      "description": "Skup się na swoich stawach (skokowych, kolanowych, biodrowych). Wyobraź sobie, że są to gąbki. Kiedy zginasz staw (np. uginasz kolano), gąbka jest wyciskana. Kiedy go prostujesz, gąbka napełnia się odżywczym płynem. Wykonuj powolne, świadome ruchy zginania i prostowania.",
+      "goal": "Zwiększenie świadomości stawów, poprawa ich 'smarowania', prewencja kontuzji."
+    },
+    {
+      "id": "PHY008",
+      "title": "Oczy z tyłu głowy",
+      "description": "Wyobraź sobie, że masz dodatkową parę oczu z tyłu głowy. Poruszaj się po pokoju, starając się 'widzieć' przestrzeń za sobą tak samo dobrze, jak tę przed sobą. Poczuj, jak ta świadomość wpływa na twoją postawę i sposób poruszania się.",
+      "goal": "Poszerzenie świadomości przestrzennej, redukcja napięcia w karku, zmiana percepcji."
+    },
+    {
+      "id": "PHY009",
+      "title": "Latające łopatki",
+      "description": "Poczuj swoje łopatki. Wyobraź sobie, że są to dwa skrzydła, które mogą swobodnie ślizgać się po plecach. Poruszaj ramionami w różnych kierunkach, czując jak łopatki-skrzydła unoszą się, opadają, zbliżają i oddalają od kręgosłupa.",
+      "goal": "Uwolnienie barków i ramion, zwiększenie zakresu ruchu, lekkość w górnej części ciała."
+    },
+    {
+      "id": "PHY010",
+      "title": "Sprężyste piłki pod stopami",
+      "description": "Podczas chodzenia lub lekkiego biegu w miejscu, wyobraź sobie, że pod każdą piętą i pod każdą poduszką stopy (za palcami) masz małe, sprężyste piłeczki. Każdy kontakt z podłożem amortyzowany jest przez te piłki, co daje ci lekkość i odbicie.",
+      "goal": "Poprawa amortyzacji podczas chodu, lekkość, redukcja obciążenia stawów."
     }
   ]
 }
