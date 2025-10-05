@@ -1,0 +1,193 @@
+{
+  "emotionsDatabase": [
+    {
+      "name": "ADORATION",
+      "definition": "A feeling of deep love and respect; worship.",
+      "physicalSignals": [
+        "Relaxed posture",
+        "Leaning in toward the subject",
+        "Smiling, a radiant expression",
+        "Eyes wide, shining",
+        "Direct and sustained eye contact",
+        "Touching the subject (a hand on the arm, stroking their hair)",
+        "A softened, warm tone of voice",
+        "Mimicking the subject's body language",
+        "Nodding while the other person speaks"
+      ],
+      "internalSensations": [
+        "A feeling of warmth in the chest",
+        "A fluttering in the stomach",
+        "A quickened heartbeat",
+        "Feeling breathless"
+      ],
+      "mentalResponses": [
+        "Idealizing the subject, seeing no flaws",
+        "A desire to please and protect the subject",
+        "Losing track of time when with the subject",
+        "Feeling complete and happy in their presence",
+        "Constant thoughts about the subject"
+      ],
+      "cuesAcute": [
+        "Tears of overwhelming emotion",
+        "Inability to speak",
+        "A radiant, almost glowing expression"
+      ],
+      "cuesLongTerm": [
+        "Adopting the subject's mannerisms or interests",
+        "Making significant life changes to be near or aligned with the subject",
+        "Neglecting one's own needs in favor of the subject's"
+      ],
+      "actorPrompts": [
+        "Show adoration for someone who doesn't know you exist.",
+        "Express adoration for an inanimate object.",
+        "Try to hide your adoration for someone in a formal setting."
+      ]
+    },
+    {
+      "name": "ANXIETY",
+      "definition": "A feeling of worry, nervousness, or unease, typically about an imminent event or something with an uncertain outcome.",
+      "physicalSignals": [
+        "Fidgeting, tapping fingers or feet",
+        "Pacing",
+        "Sweaty palms",
+        "A shaky or trembling voice",
+        "Avoiding eye contact",
+        "Biting nails or lips",
+        "Clenched jaw, tight shoulders",
+        "Rapid, shallow breathing",
+        "Crossing arms tightly over the chest"
+      ],
+      "internalSensations": [
+        "A knot in the stomach",
+        "Racing heart, palpitations",
+        "Dizziness or lightheadedness",
+        "A feeling of dread",
+        "Dry mouth",
+        "Muscles feeling tense and sore"
+      ],
+      "mentalResponses": [
+        "Racing thoughts, inability to concentrate",
+        "Catastrophizing, imagining the worst-case scenario",
+        "Overthinking past conversations and actions",
+        "A desperate need for reassurance",
+        "Feeling of being overwhelmed and out of control"
+      ],
+      "cuesAcute": [
+        "Panic attack",
+        "Hyperventilating",
+        "Feeling of detachment from reality",
+        "An urgent need to escape the situation"
+      ],
+      "cuesLongTerm": [
+        "Chronic fatigue, sleep problems",
+        "Social withdrawal",
+        "Development of obsessive-compulsive behaviors",
+        "Difficulty making decisions"
+      ],
+      "actorPrompts": [
+        "Perform a simple, everyday task (like making tea) with overwhelming anxiety.",
+        "Try to deliver a confident speech while internally battling severe anxiety.",
+        "Wait for a phone call that will change your life."
+      ]
+    },
+    {
+      "name": "CONFIDENCE",
+      "definition": "The feeling or belief that one can rely on someone or something; firm trust.",
+      "physicalSignals": [
+        "Erect, open posture",
+        "Shoulders back, chest out",
+        "Firm, steady handshake",
+        "Purposeful, measured movements",
+        "Direct, unwavering eye contact",
+        "A clear, steady voice with controlled pitch",
+        "Smiling easily and genuinely",
+        "Taking up space, not shrinking away"
+      ],
+      "internalSensations": [
+        "A feeling of calm and centeredness",
+        "Steady heartbeat",
+        "Feeling of physical strength and capability",
+        "Clear-headedness"
+      ],
+      "mentalResponses": [
+        "Positive self-talk",
+        "Focus on solutions, not problems",
+        "Ability to make decisions quickly and trust them",
+        "Not seeking approval from others",
+        "Feeling of being in control of one's life and choices"
+      ],
+      "cuesAcute": [
+        "Taking on a leadership role naturally",
+        "Handling a crisis with calm authority",
+        "Speaking truth to power without fear"
+      ],
+      "cuesLongTerm": [
+        "Achieving long-term goals",
+        "Building strong, healthy relationships",
+        "Inspiring trust and confidence in others",
+        "Resilience in the face of setbacks"
+      ],
+      "actorPrompts": [
+        "Enter a room full of strangers as if you own the place.",
+        "Explain a complex topic you know nothing about with complete confidence.",
+        "Calmly defuse a tense argument between two other people."
+      ]
+    }
+  ],
+  "improvisationExercises": [
+    {
+      "id": "IMP001",
+      "title": "Zepsuty toster",
+      "scenario": "Postać A próbuje oddać do sklepu zepsuty toster. Postać B jest sprzedawcą, który postępuje ściśle według regulaminu.",
+      "participants": 2,
+      "tags": ["konflikt", "codzienne", "para"]
+    },
+    {
+      "id": "IMP002",
+      "title": "Przesłuchanie",
+      "scenario": "Postać A spóźniła się na bardzo ważne spotkanie. Postać B (lub B i C) to osoby, które na nią czekały i chcą poznać powód.",
+      "participants": "2-3",
+      "tags": ["konfrontacja", "formalne", "grupa"]
+    },
+    {
+      "id": "IMP003",
+      "title": "Wspólny sekret",
+      "scenario": "Dwie postacie właśnie zrobiły coś, co muszą utrzymać w tajemnicy. Rozmawiają o tym szeptem w miejscu publicznym, upewniając się, że nikt ich nie słyszy.",
+      "participants": 2,
+      "tags": ["tajemnica", "napięcie", "para"]
+    },
+    {
+      "id": "IMP004",
+      "title": "Monolog wewnętrzny",
+      "scenario": "Jesteś na przyjęciu, na którym nikogo nie znasz. Wykonuj proste czynności (nalewanie napoju, sięganie po przekąskę), jednocześnie głośno wypowiadając swoje wewnętrzne, nerwowe myśli.",
+      "participants": 1,
+      "tags": ["solo", "komedia", "psychologiczne"]
+    }
+  ],
+  "physicalExercises": [
+    {
+      "id": "PHY001",
+      "title": "Przemieszczająca się kulka",
+      "description": "Wyobraź sobie, że wewnątrz Twojej głowy znajduje się mała, ciężka, metalowa kulka. Poruszaj głową bardzo powoli, czując jak kulka bezwładnie przemieszcza się wewnątrz, uderzając o ściany czaszki. Zbadaj, jak ten obraz wpływa na resztę Twojego ciała.",
+      "goal": "Izolacja, koncentracja, świadomość wewnętrznej przestrzeni."
+    },
+    {
+      "id": "PHY002",
+      "title": "Magnetyczne dłonie",
+      "description": "Stań prosto, unieś dłonie na wysokość klatki piersiowej, wnętrzami do siebie. Wyobraź sobie, że są to dwa magnesy o tych samych biegunach, które się odpychają. Spróbuj je do siebie zbliżyć, walcząc z niewidzialną siłą.",
+      "goal": "Budowanie napięcia, praca z oporem, odczuwanie energii."
+    },
+    {
+      "id": "PHY003",
+      "title": "Przyklejone stopy",
+      "description": "Wyobraź sobie, że podeszwy Twoich stóp zostały przyklejone do podłogi bardzo mocnym klejem. Chcesz pilnie dostać się na drugi koniec pokoju. Spróbuj iść, nie odrywając stóp od podłoża. Jak pracuje Twoje ciało, aby się przemieścić?",
+      "goal": "Frustracja, praca z ograniczeniem, znajdowanie alternatywnych ścieżek ruchu."
+    },
+    {
+      "id": "PHY004",
+      "title": "Niewidzialna ściana",
+      "description": "Idź przed siebie. W pewnym momencie natrafiasz na całkowicie przezroczystą, niewidzialną ścianę. Zbadaj ją dłońmi, twarzą, całym ciałem. Spróbuj znaleźć jej krawędzie, fakturę, temperaturę. Spróbuj ją przesunąć.",
+      "goal": "Praca z wyobrażonym obiektem, precyzja ruchu, sensoryka."
+    }
+  ]
+}
